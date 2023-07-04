@@ -1,6 +1,8 @@
 import cv2
 import os
 
+
+# this is for the dataset
 def start_capture(name):
         path = "./data/" + name
         num_of_images = 0
